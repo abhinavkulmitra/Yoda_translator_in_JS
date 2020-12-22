@@ -1,0 +1,48 @@
+body {
+  font-family: monospace;
+  text-align: center;
+  background-color: #e8ffc1;
+}
+
+.header {
+  background-color: white;
+  color: #32e0c4;
+  margin: auto;
+}
+
+textarea {
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 0.4rem;
+  border: solid 0.3rem #51adcf;
+}
+
+.inputBtn {
+  background-color: #51adcf;
+  color: white;
+  border: solid #51adcf;
+  padding: 0.3rem;
+  font-size: 0.8rem;
+  margin-bottom: 1rem;
+}
+
+#output {
+  background-color: white;
+  border: 0.1rem solid #809692;
+  padding: 2rem;
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  margin-bottom: 0.8rem;
+}
+
+footer {
+  padding: 0.1rem;
+  background: white;
+  color: #51adcf;
+}
+
+footer h3,
+span {
+  color: #32e0c4;
+}
